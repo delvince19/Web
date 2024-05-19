@@ -1,0 +1,21 @@
+/* login.css */
+
+/* Center the login form vertically and horizontally */
+.vh-100 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh; /* Ensure the container takes up the full height of the viewport */
+  }
+  
+  /* Ensure the form container has a fixed width and is centered */
+  .form-container {
+    max-width: 400px; /* Adjust as needed */
+  }
+  
+  /* Additional styling if needed */
+  /* For example, if you want to adjust the width of the form inputs */
+  .form-control {
+    width: 100%;
+  }
+  

@@ -1,0 +1,84 @@
+/* styles.css */
+.card-title {
+    color: #bb0808; /* Change color to your preferred color */
+    font-size: 24px; /* Change font size to your preferred size */
+    font-weight: bold; /* Make the font bold */
+    text-align: center; /* Center align the text */
+    margin-top: 20px; /* Add top margin as needed */
+}
+
+.card-title1 {
+    color: #fff; /* Change color to your preferred color */
+    font-size: 50px; /* Change font size to your preferred size */
+    font-weight: bold; /* Make the font bold */
+    text-align: left; /* Center align the text */
+    margin-top: 20px; /* Add top margin as needed */
+}
+.card-title2 {
+    color: #fff; /* Change color to your preferred color */
+    font-size: 30px; /* Change font size to your preferred size */
+    font-weight: bold; /* Make the font bold */
+
+
+}
+
+.col {
+    flex: 1;
+    text-align: right;
+  }
+  
+  .card-body {
+    border: 1px solid #011F4B;
+    padding: 20px;
+    margin: 10px;
+  }
+  
+  .card-body2 {
+    border: 1px solid #011F4B;
+    padding: 20px;
+    margin: 10px;
+  }
+  
+  .profile {
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Adjust size as needed */
+    border-radius: 50%; /* Make it circular */
+  }
+  
+  .user-name {
+    font-size: 18px;
+    margin-top: 10px;
+  }  
+
+.container-fluid {
+    margin-top: 1rem; /* Adjust margin-top as needed */
+    background-color: #bb0808;
+}
+
+/* Apply margin-top using Bootstrap mt-4 utility class */
+.mt-4 {
+    margin-top: 1.5rem !important; /* Adjust margin-top as needed */
+    background-color: #011F4B;
+}
+
+.card-body {
+    background-color:#011F4B;
+}
+
+.trlist {
+    background-color: #011F4B;
+    color:#bb0808;
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+  }
+
+  .trlistsql {
+    background-color: #011F4B;
+    color:#bb0808;
+    font-size: 20px;
+    text-align: center;
+    /* font-weight: bold; */
+  }
+
+  

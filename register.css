@@ -1,0 +1,19 @@
+.invalid { border-color: #dc3545 !important; }
+.error-message { color: #dc3545; font-size: 0.875rem; margin-top: 0.25rem; }
+.weak-password { border-color: #dc3545 !important; }
+.moderate-password { border-color: #ffc107 !important; }
+.strong-password { border-color: #28a745 !important; }
+
+/* Adjusted CSS for flexible input fields */
+.form-outline.flex-fill.mb-0 {
+    width: 100%;
+}
+
+/* Adjusted CSS for specific input fields */
+#firstname,
+#middlename,
+#lastname,
+#password,
+#repassword {
+    width: 100%;
+}
